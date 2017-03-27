@@ -1,0 +1,16 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "SumIntent",
+      "slots": [
+        {
+          "name": "number",
+          "type": "AMAZON.NUMBER"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "alexa-sample",
+  "version": "1.0.0",
+  "description": "A voxa sample skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Reyes Monge <andresm@rain.agency>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "voxa": "^2.1.0"
+  }
+}
